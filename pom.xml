@@ -1,9 +1,9 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>org.everpeace</groupId>
+    <groupId>com.madgag</groupId>
     <artifactId>string-score</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1-UNOFFICIAL-ROBERTO-RELEASE-SNAPSHOT</version>
     <parent>
         <groupId>org.sonatype.oss</groupId>
         <artifactId>oss-parent</artifactId>
@@ -11,7 +11,7 @@
     </parent>
     <packaging>jar</packaging>
     <name>string-score</name>
-    <description>string-score is a port of Joshaven Potter's string_score to Java.</description>
+    <description>string-score is a port of Joshaven Potter's string_score to Java by Shingo Omura.</description>
     <url>https://github.com/everpeace/string-score</url>
     <licenses>
         <license>
@@ -21,9 +21,9 @@
         </license>
     </licenses>
     <scm>
-        <url>https://github.com/everpeace/string-score</url>
-        <connection>scm:git:git://github.com/everpeace/string-score.git</connection>
-        <developerConnection>scm:git:git@github.com:everpeace/string-score.git</developerConnection>
+        <url>https://github.com/rtyley/string-score</url>
+        <connection>scm:git:git://github.com/rtyley/string-score.git</connection>
+        <developerConnection>scm:git:git@github.com:rtyley/string-score.git</developerConnection>
     </scm>
     <developers>
         <developer>
