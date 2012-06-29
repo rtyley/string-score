@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.madgag</groupId>
     <artifactId>string-score</artifactId>
-    <version>0.0.1-UNOFFICIAL-ROBERTO-RELEASE</version>
+    <version>0.0.2-UNOFFICIAL-ROBERTO-RELEASE-SNAPSHOT</version>
     <parent>
         <groupId>org.sonatype.oss</groupId>
         <artifactId>oss-parent</artifactId>
